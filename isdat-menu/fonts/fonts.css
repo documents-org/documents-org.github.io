@@ -1,0 +1,63 @@
+@font-face {
+    font-family: 'Junicode';
+    src: url('./Junicode-Bold-webfont.woff') format('woff'),
+    url('./Junicode-Bold-webfont.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Junicode Condensed';
+    src: url('./Junicode-BoldCondensed-webfont.woff') format('woff'),
+    url('./Junicode-BoldCondensed-webfont.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Junicode';
+    src: url('./Junicode-BoldItalic-webfont.woff') format('woff'),
+    url('./Junicode-BoldItalic-webfont.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Junicode Condensed';
+    src: url('./Junicode-BoldItalicCondensed-webfont.woff') format('woff'),
+    url('./Junicode-BoldItalicCondensed-webfont.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Junicode';
+    src: url('./Junicode-Italic-webfont.woff') format('woff'),
+    url('./Junicode-Italic-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Junicode Condensed';
+    src: url('./Junicode-ItalicCondensed-webfont.woff') format('woff'),
+    url('./Junicode-ItalicCondensed-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Junicode';
+    src: url('./Junicode-webfont.woff') format('woff'),
+    url('./Junicode-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Junicode Condensed';
+    src: url('./Junicode-RegularCondensed-webfont.woff') format('woff'),
+    url('./Junicode-RegularCondensed-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
